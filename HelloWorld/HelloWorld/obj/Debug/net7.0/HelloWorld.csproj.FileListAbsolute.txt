@@ -1,0 +1,15 @@
+/Users/anshuljain/Data/Code/Personal/dot_net/HelloWorld/HelloWorld/bin/Debug/net7.0/HelloWorld
+/Users/anshuljain/Data/Code/Personal/dot_net/HelloWorld/HelloWorld/bin/Debug/net7.0/HelloWorld.deps.json
+/Users/anshuljain/Data/Code/Personal/dot_net/HelloWorld/HelloWorld/bin/Debug/net7.0/HelloWorld.runtimeconfig.json
+/Users/anshuljain/Data/Code/Personal/dot_net/HelloWorld/HelloWorld/bin/Debug/net7.0/HelloWorld.dll
+/Users/anshuljain/Data/Code/Personal/dot_net/HelloWorld/HelloWorld/bin/Debug/net7.0/HelloWorld.pdb
+/Users/anshuljain/Data/Code/Personal/dot_net/HelloWorld/HelloWorld/obj/Debug/net7.0/HelloWorld.csproj.AssemblyReference.cache
+/Users/anshuljain/Data/Code/Personal/dot_net/HelloWorld/HelloWorld/obj/Debug/net7.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anshuljain/Data/Code/Personal/dot_net/HelloWorld/HelloWorld/obj/Debug/net7.0/HelloWorld.AssemblyInfoInputs.cache
+/Users/anshuljain/Data/Code/Personal/dot_net/HelloWorld/HelloWorld/obj/Debug/net7.0/HelloWorld.AssemblyInfo.cs
+/Users/anshuljain/Data/Code/Personal/dot_net/HelloWorld/HelloWorld/obj/Debug/net7.0/HelloWorld.csproj.CoreCompileInputs.cache
+/Users/anshuljain/Data/Code/Personal/dot_net/HelloWorld/HelloWorld/obj/Debug/net7.0/HelloWorld.dll
+/Users/anshuljain/Data/Code/Personal/dot_net/HelloWorld/HelloWorld/obj/Debug/net7.0/refint/HelloWorld.dll
+/Users/anshuljain/Data/Code/Personal/dot_net/HelloWorld/HelloWorld/obj/Debug/net7.0/HelloWorld.pdb
+/Users/anshuljain/Data/Code/Personal/dot_net/HelloWorld/HelloWorld/obj/Debug/net7.0/HelloWorld.genruntimeconfig.cache
+/Users/anshuljain/Data/Code/Personal/dot_net/HelloWorld/HelloWorld/obj/Debug/net7.0/ref/HelloWorld.dll
